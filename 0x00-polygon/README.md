@@ -10,7 +10,7 @@
 * sides - a regular polygon is usually defined by the number of it's sides (e.g pentagon - 5 sides).
 * length - each side has a length.
 * Methods:
-* internalAng() - returns the sum of the regular polygon.
+* internalAng() - returns the sum of internal angles of the regular polygon.
 *
 * class: messages - contains all the texts printed out to standard output. 
 * Attributes:
