@@ -1,6 +1,5 @@
 ﻿
-# This simple console application prints the sum of internal angles of 
-# a regular polygon to standard output.
+# This simple console application prints the sum of internal angles of a regular polygon to standard output.
 
 * This is a test program I built as solution to my dotNet assignment.
 *
