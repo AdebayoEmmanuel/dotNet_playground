@@ -1,4 +1,4 @@
-﻿/**
+﻿
 * This simple console application prints the sum of internal angles of 
 a regular polygon to standard output.
 
@@ -15,4 +15,4 @@ a regular polygon to standard output.
 * Methods:
 * internalAng() : returns the sum of the regular polygon
 *
-* Right engineering, Right documentation.*/
+* Right engineering, Right documentation.
