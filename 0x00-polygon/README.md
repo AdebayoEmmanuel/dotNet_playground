@@ -22,5 +22,4 @@ a regular polygon to standard output.
 * display() - Prints a message to standard output, based on parameters passed.
 *
 *
-*
 # Right engineering, Right documentation.
