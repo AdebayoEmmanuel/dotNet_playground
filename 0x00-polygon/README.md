@@ -1,7 +1,7 @@
 ﻿
-* This simple console application prints the sum of internal angles of 
+# This simple console application prints the sum of internal angles of 
 a regular polygon to standard output.
-*
+
 * This is a test program I built as solution to my dotNet assignment.
 *
 * The main code can be found in Program.cs.
@@ -20,6 +20,5 @@ a regular polygon to standard output.
 * solutionMsg: Display message after running the program.
 * Methods:
 * display() - Prints a message to standard output, based on parameters passed.
-*
-*
+
 # Right engineering, Right documentation.
