@@ -11,10 +11,10 @@ namespace _0x00_polygon
         //Attributes of a regular polygon
         public int length, sides;
 
-        public void interiorAng()
+        public int interiorAng()
         {
-            double interiorAngle = (sides - 2) * 180;
-            Console.WriteLine("Sum of the interior angle of this Polygon is: {0}", interiorAngle);
+            int interiorAngle = (sides - 2) * 180;
+            return interiorAngle;
         }
     }
 }
